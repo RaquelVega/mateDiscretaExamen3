@@ -1,0 +1,15 @@
+# ==============================================================================
+# Proyecto de Criptografía RSA - MM2015 Matemática Discreta 1
+# 
+# Integrantes:
+# - Raquel Pamela Tejada Vega (Carné: 25469)
+# - José Carlos Argueta González (Carné: 25652)
+# - Asistente de IA: Antigravity (Google DeepMind - Gemini 3.8 Flash)
+# ==============================================================================
+# Este proyecto fue desarrollado utilizando EXCLUSIVAMENTE la biblioteca
+# estándar de Python 3 (tkinter, unittest, sys, typing).
+#
+# No se requieren paquetes ni dependencias externas de terceros (pip).
+# Todas las implementaciones matemáticas (MCD por Euclides, Inverso Modular
+# por Euclides Extendido, Exponenciación Modular por algoritmo binario y
+# comprobación de primalidad) son propias y nativas.
