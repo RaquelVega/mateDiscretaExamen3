@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Integrantes y Asistencia de IA
+## Integrantes y Asistencia de IA
 
 - **Raquel Pamela Tejada Vega** — Carné: `25469`
 - **José Carlos Argueta González** — Carné: `25652`
@@ -12,13 +12,13 @@
 
 ---
 
-## 🎥 Video Demostrativo
+## Video Demostrativo
 
 - **Enlace de revisión:** `[https://youtu.be/w-Nv8PsCKpY?si=HeiC5ZY9a-NlR2i5]`
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Aplicación con interfaz gráfica en Python que implementa el criptosistema asimétrico RSA para encriptar y desencriptar mensajes de texto respetando los principios de la aritmética modular y la teoría de números.
 
@@ -33,7 +33,7 @@ Aplicación con interfaz gráfica en Python que implementa el criptosistema asim
 
 ---
 
-## 💻 Entorno y Requisitos de Ejecución
+## Entorno y Requisitos de Ejecución
 
 - **Versión de Python:** Python 3.10 o superior (verificado en Python 3.13).
 - **Dependencias externas:** **Ninguna**. El proyecto se diseñó utilizando exclusivamente la **biblioteca estándar de Python** (`tkinter`, `ttk`, `unittest`, `typing`, `sys`). No requiere instalación de paquetes vía `pip`.
@@ -53,7 +53,7 @@ Aplicación con interfaz gráfica en Python que implementa el criptosistema asim
 
 ---
 
-## 📂 Organización de Archivos y Funciones Matemáticas
+## Organización de Archivos y Funciones Matemáticas
 
 | Archivo | Función / Algoritmo | Descripción y Propósito |
 |---|---|---|
@@ -69,7 +69,7 @@ Aplicación con interfaz gráfica en Python que implementa el criptosistema asim
 
 ---
 
-## 🔄 Uso de las Operaciones
+## Uso de las Operaciones
 
 ### 1. Encriptación
 1. Ingrese los números primos distintos $p$ y $q$, y el exponente público $e$ (o presione el botón *"Cargar Ejemplo de Guía"*).
@@ -91,7 +91,7 @@ Aplicación con interfaz gráfica en Python que implementa el criptosistema asim
 
 ---
 
-## 🔑 Ubicación de $C$ y $L$, Ingreso en Desencriptación y Mecanismo de Relleno
+## Ubicación de $C$ y $L$, Ingreso en Desencriptación y Mecanismo de Relleno
 
 ### ¿Dónde se muestran $C$ y $L$?
 - Al encriptar, el **Cifrado $C$** aparece en el panel derecho en un campo de texto destacado de solo lectura con opción de copia directa.
@@ -112,7 +112,7 @@ Aplicación con interfaz gráfica en Python que implementa el criptosistema asim
 
 ---
 
-## 📊 Ejemplo Completo de Referencia
+## Ejemplo Completo de Referencia
 
 Verificación paso a paso del caso presentado en las especificaciones del proyecto:
 
@@ -134,7 +134,7 @@ Verificación paso a paso del caso presentado en las especificaciones del proyec
 
 ---
 
-## 🧪 Comprobaciones y Pruebas Realizadas
+## Comprobaciones y Pruebas Realizadas
 
 La suite de pruebas automatizadas (`test_rsa.py`) incluye 25 casos de prueba unitarios organizados en tres categorías:
 
