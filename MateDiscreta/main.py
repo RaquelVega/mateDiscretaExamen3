@@ -5,7 +5,6 @@ MM2015 Matemática Discreta 1
 Integrantes:
 - Raquel Pamela Tejada Vega (Carné: 25469)
 - José Carlos Argueta González (Carné: 25652)
-- Asistente de IA: Antigravity (Google DeepMind - Gemini 3.8 Flash)
 """
 
 import sys
